@@ -1,0 +1,14 @@
+.showVendorRating th,
+.showVendorRating td,
+.showVendorRating table {
+  border: 2px;
+  border-color: rgba(142, 142, 142, 0.785);
+  border-style: groove;
+  border-radius: 5px;
+  margin: auto;
+  flex: 1;
+}
+
+.showVendorRating th {
+  text-transform: capitalize;
+}

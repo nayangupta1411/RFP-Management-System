@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header {
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  position: fixed;
+  background-color: gray;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+}
