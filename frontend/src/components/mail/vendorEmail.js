@@ -1,8 +1,8 @@
 const vendors = [
-  { value: 'nayan141198', label: 'nayan141198@gmail.com' },
-  { value: 'pdrome14', label: 'pdrome14@gmail.com' },
-  { value: 'adarsh', label: 'adarshsonare@gmail.com' },
-  { value: 'mayur', label: 'mayursipolya13@gmail.com' },
+  { value: 'abc', label: 'abc@gmail.com' },
+  { value: 'mno', label: 'mno@gmail.com' },
+  { value: 'pqr', label: 'pqr@gmail.com' },
+  { value: 'xyz', label: 'xyz@gmail.com' },
 ];
 
 export default vendors;
